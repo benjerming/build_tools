@@ -18,3 +18,7 @@ scripts/sdkjs_common/jsdoc/package-lock.json
 tools/linux/python3/
 tools/linux/python3.tar.gz
 tools/linux/sysroot/sysroot_ubuntu_1604
+qt_build
+packages_complete
+qt_amd64.7z
+v8.data
